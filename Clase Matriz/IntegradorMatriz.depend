@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1594477840 source:c:\users\cordial\desktop\universidad unpaz trabajos\integradormatriz\main.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+
